@@ -239,6 +239,12 @@ footer.bg-primary {
 	width:520px;	
 	}
 
+	input#Field1{
+	margin-left:0 !important;
+	padding-left:20px !important;
+	width:520px;	
+	}
+
 	input.btTxt {
 	width: 100% !important;
 	}
@@ -264,6 +270,12 @@ footer.bg-primary {
 	}
 
 	input#Field6{
+	margin-left:0 !important;
+	padding-left:20px !important;
+	width:380px;	
+	}
+
+	input#Field1{
 	margin-left:0 !important;
 	padding-left:20px !important;
 	width:380px;	
@@ -299,6 +311,12 @@ footer.bg-primary {
 	}
 
 	input#Field6{
+	margin-left:0 !important;
+	padding-left:20px !important;
+	width:275px;
+	}
+
+	input#Field1{
 	margin-left:0 !important;
 	padding-left:20px !important;
 	width:275px;
