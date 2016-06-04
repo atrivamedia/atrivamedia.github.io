@@ -182,6 +182,7 @@ footer.bg-primary {
 /* MEDIA QUERIES*/
 
 @media(max-width: 1200px){
+/*	
 	input#Field1{
 	margin-left:15% !important;
 	padding-left:20px !important;
@@ -197,13 +198,13 @@ footer.bg-primary {
 	.showcase-img {
 		display: none;
 	}
-
+/*
 	input#Field1{
 	margin-left:15% !important;
 	padding-left:20px !important;
 	width:565px;
 	}
-
+*/
 	input.btTxt {
 	width: 80% !important;
 	}
